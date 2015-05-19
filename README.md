@@ -32,4 +32,10 @@ This repository is dedicated to providing solutions for the Mega Projects List c
 - [<b>Prime Factorization Finder: </b>](Numbers/prime_Factorization.java) The user enters a number and the program finds all Prime Factors (if there are any) and displays them.
 
 #### Text
+- [<b>Palindrome Check: </b>](Text/Palindrome_Check.java) Checks if the string entered by the user is a palindrome.
+- [<b>Reverse String: </b>](Text/Reverse_String.java) Enter a string and the program will reverse it and print it out.
+- [<b>Check Stock Price: </b>](Text/Stock_Price.java) A program which can go out and check the current value of stocks.
+
 #### Threading
+- [<b>Download Multithreading: </b>](Multithreading/Download_Multithreading.java) Sample Application of Utilizing Multiple Threads
+
