@@ -39,3 +39,6 @@ This repository is dedicated to providing solutions for the Mega Projects List c
 #### Threading
 - [<b>Download Multithreading: </b>](Multithreading/Download_Multithreading.java) Sample Application of Utilizing Multiple Threads
 
+#### Databases
+- [<b>Database Connection: </b>](Databases/DatabaseConnection.java) A class that simplifies connecting to databases.
+
